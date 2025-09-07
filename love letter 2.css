@@ -21,7 +21,7 @@
 .flap {
   border-left: 240px solid transparent;
   border-right: 240px solid transparent;
-  border-bottom: 182px solid transparent;
+  border-bottom: 180px solid transparent;
   /* a little smaller */
   border-top: 198px solid #d9534f; /* Same romantic red */
   /* a little larger */
